@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(85, 1, 1);
+    padding: 1%;
+    border-bottom: 6px solid black;
+    color: white;
+    
+}
+
+
+header .logo{
+    margin-right: 100px;
+    
+}
+header .logo :hover{
+    color: black;
+    transition: 0.5s;
+}
+
+header .menu_nav{
+    width: 40%;
+    margin-top: 1%;
+}
+
+header ul{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+header ul li{
+    margin-left: 10%;
+    list-style: none;
+}
+
+header ul li .rotas{
+    text-decoration: none;
+    color: white;
+    
+}
+header ul li .rotas:hover{
+    color: black;
+    transition: 0.5s;
+}  
+
+header button{
+    padding:1px;
+}
+
+header button:hover{
+    background-color: black;
+    color:  rgb(85, 1, 1);
+    transition: 0.5s;
+}

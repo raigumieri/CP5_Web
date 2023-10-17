@@ -1,0 +1,22 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#nome, #descricao, #valores{
+    display: flex;
+    justify-content: center;
+}
+
+#idNome, #idDesc, #idValor{
+    display: flex;
+    
+}

@@ -1,0 +1,34 @@
+.editar_geral{
+    max-width: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 35%;
+    background-color: rgb(85, 1, 1);
+    padding: 4%;
+    margin-top: 3%;
+    border-radius: 20px;
+    margin-bottom: 2%;
+}
+
+.titulo_editar{
+    color: white;
+    margin-bottom: 4%;
+}
+
+legend{
+    color: white;
+}
+
+input{
+    color: rgb(0, 0, 0);
+    
+    
+}
+label{
+    color: whitesmoke;
+    margin-top: 10px;
+}
+
+
+

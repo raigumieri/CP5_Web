@@ -1,0 +1,84 @@
+.integrantes_geral{
+    color: whitesmoke;
+}
+
+.integrantes{
+    max-width: 20%;
+    margin-left: 3%;
+}
+
+
+.grupo1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.imagem_fazito{
+    max-width: 91%;
+    border-radius: 100px;
+    border-style: groove;
+    border-width: 7px;
+    box-shadow: 1px 1px 30px 3px rgb(85, 1, 1);
+    margin-bottom: 15px;
+}
+.imagem_fazito:hover{
+    box-shadow: 1px 1px 30px 3px rgb(255, 4, 4);
+}
+
+.imagem_rai{
+    border-radius: 100px;
+    max-width: 98%;
+    border-style: groove;
+    border-width: 7px;
+    box-shadow: 1px 1px 30px 3px rgb(85, 1, 1);
+    margin-bottom: 15px;
+}
+.imagem_rai:hover{
+    box-shadow: 1px 1px 30px 3px rgb(255, 4, 4);
+}
+
+.grupo2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.imagem_ian{
+    border-radius: 70px;
+    border-style: groove;
+    border-width: 7px;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 30px 3px rgb(85, 1, 1);
+}
+.imagem_ian:hover{
+    box-shadow: 5px 5px 30px 3px rgb(255, 4, 4)
+}
+
+.imagem_lima{
+    border-radius: 70px;
+    border-style: groove;
+    max-width: 74%;
+    border-width: 7px;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 30px 3px rgb(85, 1, 1);
+}
+.imagem_lima:hover{
+    box-shadow: 5px 5px 30px 3px rgb(255, 4, 4)
+}
+
+.imagem_laes{
+    border-radius: 70px;
+    border-style: groove;
+    border-width: 7px;
+    max-width: 80%;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 30px 3px rgb(85, 1, 1);
+}
+.imagem_laes:hover{
+    box-shadow: 5px 5px 30px 3px rgb(255, 4, 4)
+}
+
+
